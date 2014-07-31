@@ -1,0 +1,12 @@
+#@admin
+#@language fr-fr
+rah_change_passwords => Changer le mot de passe
+rah_change_passwords_pass => Nouveau mot de passe
+rah_change_passwords_confirm => Confirmer le mot de passe
+rah_change_passwords_email_pass => Envoyer par Email ?
+rah_change_passwords_reset_session => Réinitialiser la session utilisateur ?
+rah_change_passwords_confirm_error => Les mots de passe ne correspondent pas.
+rah_change_passwords_update_failed => Echec de sauvegarde des modifications.
+rah_change_passwords_changed => Mot de passe changé.
+rah_change_passwords_mailed => Mot de passe changé et envoyé à l'adresse <strong>{email}</strong>.
+rah_change_passwords_mailing_failed => Echec de transmission du mot de passe à l'adresse <strong>{email}</strong>.
